@@ -172,3 +172,6 @@ tags
 .aider*
 !.aiderignore
 .env
+.qodo
+Marlin/Configuration_adv_compare.h
+Marlin/src/module/thermistor/thermistor_9998.h
